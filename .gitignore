@@ -1,0 +1,11 @@
+# create .gitignore
+data/
+bin/
+lib/
+lib64
+etc/
+include/
+share/
+__pycache__/
+*.pyc"
+pyvenv.cfg
