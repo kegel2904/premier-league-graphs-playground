@@ -1,4 +1,4 @@
 pandas
-streamlit
+streamlitstreamlit>=1.30.0
 plotly
 requests
